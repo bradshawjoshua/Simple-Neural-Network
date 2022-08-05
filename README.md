@@ -1,4 +1,4 @@
-# Patient Early Detection of Heart Disease
+# Simple Neural Network to Predict Heart Disease
 ## Exploratory Data Analysis & Prediction of Patient Incurring Heart Disease
 
 **Author**: Joshua Bradshaw
