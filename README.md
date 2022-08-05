@@ -1,4 +1,4 @@
-# Simple Neural Network to Predict Heart Disease
+# Simple Neural Network to Help Predict Heart Disease
 ## Exploratory Data Analysis & Prediction of Patient Incurring Heart Disease
 
 **Author**: Joshua Bradshaw
